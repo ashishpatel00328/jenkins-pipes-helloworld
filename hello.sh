@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo he000llo $1!
+echo he0llo $1!
