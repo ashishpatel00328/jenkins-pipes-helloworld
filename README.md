@@ -1,5 +1,5 @@
 
-# Jenkins Pipes HelloWord example
+# Jenkins Pipeline Hello World
 
 A minimal and stupid "helloword" example project for the Jenkins Pipes demo:
 
