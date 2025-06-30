@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo he0llo $1!
+echo he0llo-test $1!
